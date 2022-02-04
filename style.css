@@ -1,0 +1,27 @@
+canvas{
+  height: 300px;
+  width: 300px;
+  border: 1x solid lightgray;
+}
+body{
+  background-color: lightblue;
+}
+h1{
+  color: red;
+  text-align: center;
+  font-family: verdana;
+  border-bottom-style: dashed;
+  border-width: 5px;
+}
+h2{
+  color: darkblue;
+  text-align: center;
+  border-bottom-style: dashed;
+  border-width: 5px;
+}
+p{
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
